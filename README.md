@@ -1,2 +1,2 @@
-# olamundo
- primeiro repositorio do curso em video
+# Olá, Mundo!
+ Primeiro repositorio do curso em video. 
